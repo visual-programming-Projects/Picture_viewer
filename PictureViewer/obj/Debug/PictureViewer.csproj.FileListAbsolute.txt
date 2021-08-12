@@ -1,0 +1,20 @@
+C:\Users\Faisal\source\repos\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\Faisal\source\repos\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\Faisal\source\repos\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\Faisal\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csprojAssemblyReference.cache
+C:\Users\Faisal\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Users\Faisal\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\Faisal\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\Faisal\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\Faisal\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\Faisal\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+F:\5th semester\visual programming\Lab_Tasks\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+F:\5th semester\visual programming\Lab_Tasks\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+F:\5th semester\visual programming\Lab_Tasks\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+F:\5th semester\visual programming\Lab_Tasks\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csprojAssemblyReference.cache
+F:\5th semester\visual programming\Lab_Tasks\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+F:\5th semester\visual programming\Lab_Tasks\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+F:\5th semester\visual programming\Lab_Tasks\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+F:\5th semester\visual programming\Lab_Tasks\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+F:\5th semester\visual programming\Lab_Tasks\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+F:\5th semester\visual programming\Lab_Tasks\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
